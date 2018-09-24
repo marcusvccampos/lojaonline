@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">LojaOnline</string>
+
+    <string name="hint_email_login">Email</string>
+    <string name="hint_senha_login">Senha</string>
+    <string name="hint_nome_conta">Nome</string>
+    <string name="hint_cpf_conta">CPF</string>
+    <string name="hint_endereco_conta">Endereço</string>
+    <string name="hint_estado_conta">Estado</string>
+    <string name="hint_municipio_conta">Município</string>
+    <string name="hint_telefone_conta">Telefone</string>
+    <string name="hint_confirmar_senha">Confirmar senha</string>
+    <string name="hint_carrinho">Carrinho</string>
+    <string name="hint_num_cart_cred">Digite o Nº do cartão de crédito</string>
+    <string name="hint_desc_produto">Descrição do Produto</string>
+    <string name="hint_qde_estoque_produto">Quantidade Estoque</string>
+    <string name="hint_preco_produto">Preço</string>
+
+    <string name="text_img_cliente">Imagem Cliente</string>
+    <string name="text_button_login">Entrar</string>
+    <string name="text_criar_conta">Cadastrar</string>
+    <string name="text_link_cadastrar_login">Cadastrar</string>
+    <string name="text_nome_cliente">Nome do Cliente</string>
+    <string name="text_email_cliente">Email do Cliente</string>
+    <string name="text_desc_prod_carrinho">Produto</string>
+    <string name="text_desc_qde_carrinho">Quantidade:</string>
+    <string name="text_qde_carrinho">1</string>
+    <string name="text_valor_item_carrinho">Valor</string>
+    <string name="text_desc_total_carrinho">TOTAL</string>
+    <string name="text_valor_total_carrinho">0,00</string>
+    <string name="text_button_finalizar_compra">FINALIZAR COMPRA</string>
+
+    <string name="text_codigo_pedido">Código Pedido:</string>
+    <string name="text_data_pedido">Data peidido:</string>
+    <string name="text_cliente_pedido">Nome Cliente:</string>
+    <string name="text_cpf_pedido">CPF:</string>
+    <string name="text_lista_produto_cadastro">Produto</string>
+    <string name="text_lista_categoria_cadastro">Categoria</string>
+
+    <string name="text_value_codigo_pedido">001</string>
+    <string name="text_value_data_pedido">01/01/2018</string>
+    <string name="text_value_cliente_pedido">Cliente</string>
+    <string name="text_value_cpf_pedido">9999999999</string>
+
+    <string name="msg_email_vazio">Informe o email</string>
+    <string name="msg_email_invalido">Email inválido</string>
+    <string name="msg_senha_vazia">Informe a senha</string>
+    <string name="msg_senha_invalida">Esta senha é muito curta</string>
+    <string name="msg_nome_vazio">Informe o nome</string>
+    <string name="msg_cpf_vazio">Informe o CPF</string>
+    <string name="msg_endereco_vazio">Informe o endereço</string>
+    <string name="msg_municipio_vazio">Informe o município</string>
+    <string name="msg_telefone_vazio">Informe o telefone</string>
+    <string name="msg_senha_vazio">Informe a senha</string>
+    <string name="msg_confirmar_senha">Confirme a senha</string>
+    <string name="msg_validar_confirmar_senha">Senha diferente</string>
+
+
+    <string name="title_toolbar_criar_conta">Criar Conta</string>
+    <string name="title_toolbar_login">Loja Online</string>
+    <string name="title_toolbar_carrinho">Carrinho</string>
+    <string name="title_nav_item_home">Home</string>
+    <string name="title_nav_item_pedidos">Meus Pedidos</string>
+    <string name="title_nav_item_produtos">Produtos</string>
+    <string name="title_nav_grupo_cadastro">Cadastros</string>
+    <string name="title_nav_item_categorias">Categorias</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_descricao_categoria">Descricao da Categoria</string>
+    <string name="text_button_salvar_categoria">SALVAR</string>
+
+
+</resources>

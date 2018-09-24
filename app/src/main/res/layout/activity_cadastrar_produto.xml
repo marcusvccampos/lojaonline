@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="14dp"
+    tools:context="com.android.lojaonline.activity.CadastrarProduto">
+
+    <EditText
+        android:id="@+id/edNomeProd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/hint_desc_produto" />
+
+    <EditText
+        android:id="@+id/edQdeEstoque"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/hint_qde_estoque_produto"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/edPrecoProd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/hint_preco_produto"
+        android:inputType="numberDecimal" />
+
+
+</LinearLayout>
